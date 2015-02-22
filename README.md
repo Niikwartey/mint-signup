@@ -1,2 +1,2 @@
 # mint-signup
-replica of Mint signup page
+Replica of Mint signup page.
